@@ -1,16 +1,26 @@
-## Hi there 👋
+# Josh Koenig
+Aspiring Software Engineer (C#/.NET) | Remote-ready | Northwest Ohio
 
-<!--
-**jkoenig459/jkoenig459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m finishing a bachelor’s degree in Game Programming & Design and transitioning into software engineering.
+I enjoy building clean, reliable web APIs and practical business apps.
 
-Here are some ideas to get you started:
+## What I’m targeting
+- Junior Software Engineer (C#/.NET)
+- Backend Developer (.NET, SQL, REST APIs)
+- Full-Stack (C# + simple web UI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+> (Coming soon) I’m building a portfolio focused on .NET, SQL, REST APIs, and deployment.
+
+- **WorkOrderTracker** — full-stack work order management app (API + SQL + UI)
+- **TaskTracker API** — REST API with EF Core + migrations + tests
+- **IntegrationDemo** — external API integration with caching + error handling
+
+## Tech I’m using
+- C#, .NET, ASP.NET Core
+- SQL (PostgreSQL), EF Core
+- REST APIs, Swagger/OpenAPI
+- GitHub Actions (CI), Docker (local dev)
+
+## Contact
+- Email: jkoenig459@gmail.com
