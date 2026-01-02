@@ -96,7 +96,7 @@ Skills shown: Unity Editor scripting, tools programming, data workflows
 Languages: C++, C#, SQL  
 Game engines: Unreal Engine, Unity  
 Software: desktop applications, data storage, basic APIs  
-Other: Git, CMake, testing basics, procedural systems, editor tools
+Other: Git, testing basics, procedural systems, editor tools
 
 ---
 
