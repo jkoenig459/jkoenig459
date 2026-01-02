@@ -113,7 +113,8 @@ Other: Git, CMake, testing basics, procedural systems, editor tools
 
 GitHub: https://github.com/jkoenig459  
 Email: jkoenig459@gmail.com  
-LinkedIn: https://www.linkedin.com/in/josh-koenig-066817120/
-itch.io: (Coming Soon)
+LinkedIn: https://www.linkedin.com/in/josh-koenig-066817120/  
+Itch.io: (Coming Soon)  
+
 
 I am open to junior software developer and gameplay programmer roles.
