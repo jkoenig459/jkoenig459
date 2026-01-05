@@ -27,6 +27,25 @@ Skills shown: Unity workflows, C#, data-driven design, reusable systems
 
 ---
 
+### Unreal Engine Project: SteamSpire – Steampunk Puzzle Game
+Repository: https://github.com/jkoenig459/SteamSpire
+
+A steampunk-themed puzzle game prototype built in Unreal Engine using Blueprints as part of a college coursework project.
+The game focuses on environmental puzzles and interactive systems, with an experimental boss encounter used to prototype enemy behavior.
+
+What I built:
+
+- Gear-based puzzle system where players locate and place gears in correct slots to open doors
+- Valve puzzle system requiring valves to be rotated into correct positions to shut off steam flow
+- Puzzle state management and validation logic using Blueprint graphs
+- Steam effects created using Niagara particle systems
+- Door and interaction systems driven by puzzle completion state
+- Prototype boss encounter that tracks the player and fires projectiles on a timed behavior loop
+- Simple prototype 3D assets modeled in Blender for gameplay testing
+
+Skills demonstrated:
+Unreal Engine, Blueprints, gameplay logic, puzzle design, state-based systems, AI behavior prototyping, Niagara VFX, basic 3D modeling
+
 ## Skills
 
 Languages: C++, C#, SQL  
