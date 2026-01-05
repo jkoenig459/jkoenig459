@@ -41,6 +41,7 @@ What I built:
 - Steam effects created using Niagara particle systems
 - Door and interaction systems driven by puzzle completion state
 - Prototype boss encounter that tracks the player and fires projectiles on a timed behavior loop
+- In-game UI built with Unreal UMG for player feedback and interaction
 - Simple prototype 3D assets modeled in Blender for gameplay testing
 
 Skills demonstrated:
