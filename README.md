@@ -11,41 +11,69 @@ Below are completed projects that show the type of work I can do.
 
 ## Projects
 
-### Unity Project: Data-Driven Puzzle Game  
-Repository: https://github.com/jkoenig459/unity-data-driven-puzzle-game
+### Unreal Engine Project: SteamSpire – Steampunk Puzzle-Platformer
+Repository: https://github.com/jkoenig459/SteamSpire
 
-A small puzzle game built in Unity.
-Levels are defined using ScriptableObjects, allowing new content to be added without modifying gameplay code.
+A steampunk-themed puzzle-platformer built in Unreal Engine using Blueprints. The game centers on two main puzzle rooms and an experimental boss encounter used to prototype enemy behavior.
 
 What I built:
-- Player controls and interaction system
-- Level loading from ScriptableObjects
-- Save and load system for player progress
-- Custom Unity editor tool for serializing editor-placed tiles and player data into reusable data objects
+- Gear-based puzzle room: collect hot-bar items, use them to gather cogwheels, place them in the correct positions, and pull a lever to open the door
+- Steam-valve puzzle room: rotate hand wheels into correct positions to shut off steam leaks and unlock the boss arena
+- Puzzle state management and validation logic using Blueprint graphs
+- Steam effects created with Niagara particle systems
+- Door and interaction systems driven by puzzle-completion state
+- Prototype boss that tracks the player and fires lasers on a timed loop
+- In-game UI built with Unreal UMG
+- Prototype 3D assets, materials, and lighting
 
-Skills shown: Unity workflows, C#, data-driven design, reusable systems
+Skills shown: Unreal Engine, Blueprints, state machines, puzzle logic, AI behavior prototyping, Niagara VFX, 3D modeling/materials, level design, lighting
 
 ---
 
-### Unreal Engine Project: SteamSpire – Steampunk Puzzle Game
-Repository: https://github.com/jkoenig459/SteamSpire
+### Unity Project: Busy Beaks – Comfy City Builder
+Repository: https://github.com/jkoenig459/busy-beaks  
+Play it: https://cecixp.itch.io/busy-beaks
 
-A steampunk-themed puzzle game prototype built in Unreal Engine using Blueprints as part of a college coursework project.
-The game focuses on environmental puzzles and interactive systems, with an experimental boss encounter used to prototype enemy behavior.
+A "comfy" city builder made for Comfy Jam: Winter 2026 (theme: "transitions"), where you guide a small colony of penguins rebuilding their village. The game placed **7th out of 88 entries**.
 
 What I built:
+- Colony management and city-building systems in C#
+- Resource gathering and building placement logic
+- UI built with Unity UI Toolkit
+- Custom outline shader and Universal Render Pipeline (URP) setup
+- Input handling with Unity's Input System
 
-- Gear-based puzzle system where players locate and place gears in correct slots to open doors
-- Valve puzzle system requiring valves to be rotated into correct positions to shut off steam flow
-- Puzzle state management and validation logic using Blueprint graphs
-- Steam effects created using Niagara particle systems
-- Door and interaction systems driven by puzzle completion state
-- Prototype boss encounter that tracks the player and fires projectiles on a timed behavior loop
-- In-game UI built with Unreal UMG for player feedback and interaction
-- Simple prototype 3D assets modeled in Blender for gameplay testing
+Skills shown: C#, Unity, UI design, RTS/city-management systems, complex gameplay logic
 
-Skills demonstrated:
-Unreal Engine, Blueprints, gameplay logic, puzzle design, state-based systems, AI behavior prototyping, Niagara VFX, basic 3D modeling
+---
+
+### Unreal Engine Project: Arena Shooter
+Repository: Coming Soon
+
+An arena FPS prototype built in Unreal Engine, focused on first-person combat against AI enemies that navigate the level using a NavMesh.
+
+What I built:
+- First-person character controller
+- Enemy AI with movement and pathfinding via NavMesh
+- Enemy respawn loop for continuous arena combat
+
+Skills shown: Unreal Engine, game AI, NavMesh navigation, game physics, first-person controls
+
+---
+
+### Unreal Engine Project: First Person Demo
+Repository: https://github.com/jkoenig459/koenig_415
+
+An FPS playground built in Unreal Engine with C++, created to experiment with engine features such as custom materials, portals, and splat decals.
+
+What I built:
+- First-person playground in Unreal using C++
+- Custom materials and a portal system
+- Splat decal effects (basis for a planned coverage-percentage mechanic)
+
+Skills shown: Unreal Engine, C++, engine mastery, materials, complex logic
+
+---
 
 ## Skills
 
@@ -58,9 +86,9 @@ Other: Git, testing basics, procedural systems, editor tools
 
 ## How I work
 
-- I try to write code that is easy to read, change, and extend.  
-- I break work into small tasks and finish projects fully.  
-- I use Git for version control and keep a clear commit history.  
+- I try to write code that is easy to read, change, and extend.
+- I break work into small tasks and finish projects fully.
+- I use Git for version control and keep a clear commit history.
 - I document how my projects work so they can be understood by others.
 
 ---
@@ -70,7 +98,6 @@ Other: Git, testing basics, procedural systems, editor tools
 GitHub: https://github.com/jkoenig459  
 Email: jkoenig459@gmail.com  
 LinkedIn: https://www.linkedin.com/in/josh-koenig-066817120/  
-Itch.io: (Coming Soon)  
-
+Itch.io: (Coming Soon)
 
 I am open to junior software developer and gameplay programmer roles.
