@@ -48,7 +48,7 @@ Skills shown: C#, Unity, UI design, RTS/city-management systems, complex gamepla
 ---
 
 ### Unreal Engine Project: Arena Shooter
-Repository: Coming Soon
+Repository: https://github.com/jkoenig459/arena-shooter
 
 An arena FPS prototype built in Unreal Engine, focused on first-person combat against AI enemies that navigate the level using a NavMesh.
 
@@ -62,7 +62,7 @@ Skills shown: Unreal Engine, game AI, NavMesh navigation, game physics, first-pe
 ---
 
 ### Unreal Engine Project: First Person Demo
-Repository: https://github.com/jkoenig459/koenig_415
+Repository: https://github.com/jkoenig459/first-person-demo
 
 An FPS playground built in Unreal Engine with C++, created to experiment with engine features such as custom materials, portals, and splat decals.
 
