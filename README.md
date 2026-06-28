@@ -61,17 +61,19 @@ Skills shown: Unreal Engine, game AI, NavMesh navigation, game physics, first-pe
 
 ---
 
-### Unreal Engine Project: First Person Demo
-Repository: https://github.com/jkoenig459/first-person-demo
+### Python Project: Nihongo MUD – Japanese-Learning Multi-User Dungeon
+Repository: https://github.com/jkoenig459/nihongo-mud
 
-An FPS playground built in Unreal Engine with C++, created to experiment with engine features such as custom materials, portals, and splat decals.
+A text-based Multi-User Dungeon (MUD) built in Python that helps players learn Japanese as they explore. It runs as a real-time client/server application, with a browser-based client and a separate visual world editor for authoring content.
 
 What I built:
-- First-person playground in Unreal using C++
-- Custom materials and a portal system
-- Splat decal effects (basis for a planned coverage-percentage mechanic)
+- Python WebSocket server driving a real-time, multiplayer world
+- Browser-based client with Japanese (IME-style) input and inline dictionary lookups
+- Visual world editor (Flask + JavaScript) for building rooms, items, and enemies
+- Gameplay systems: combat, enemies, items, quests, and survival mechanics (hunger, resting, healing)
+- JSON-driven world content with SQLite persistence
 
-Skills shown: Unreal Engine, C++, engine mastery, materials, complex logic
+Skills shown: Python, client/server architecture, WebSockets, Flask, custom tooling, JSON data design, SQLite
 
 ---
 
